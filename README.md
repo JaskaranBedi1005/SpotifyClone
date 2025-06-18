@@ -25,6 +25,6 @@ A simple and responsive clone of the Spotify web player built using **HTML**, **
 To run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/SpotifyClone.git
+git clone https://github.com/JaskaranBedi1005/SpotifyClone
 cd SpotifyClone
 open index.html
